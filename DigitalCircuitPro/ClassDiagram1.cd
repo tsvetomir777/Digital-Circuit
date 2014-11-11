@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DigitalCircuitPro.Item">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="DigitalCircuitPro.Item.myItemClickHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Item.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AABAAAIASCAAAgAgAAAAIAAhgAAAACAAAAAgAAAAABA=</HashCode>
+      <FileName>Item.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="listOfConnections" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="DigitalCircuitPro.Gate">
+    <Position X="8.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAECAAABAAAAAAAAgAAAA=</HashCode>
+      <FileName>Gate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DigitalCircuitPro.GateAND">
+    <Position X="9.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAgECAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GateAND.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DigitalCircuitPro.GateOR">
+    <Position X="11.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GateOR.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DigitalCircuitPro.GateNOT">
+    <Position X="7.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GateNOT.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DigitalCircuitPro.Connection">
+    <Position X="10.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAABAAAQAAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Connection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DigitalCircuitPro.Grid">
+    <Position X="3" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAAAAAAAIAAEACAAAIAAAAA=</HashCode>
+      <FileName>Grid.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="listOfItems" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="DigitalCircuitPro.Sink" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Sink.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

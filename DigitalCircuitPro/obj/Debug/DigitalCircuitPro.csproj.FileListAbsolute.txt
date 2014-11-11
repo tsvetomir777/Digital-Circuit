@@ -1,0 +1,9 @@
+C:\Users\Constantine\Documents\Visual Studio 2012\Projects\Project9\DigitalCircuitPro\bin\Debug\DigitalCircuitPro.exe.config
+C:\Users\Constantine\Documents\Visual Studio 2012\Projects\Project9\DigitalCircuitPro\obj\Debug\DigitalCircuitPro.csprojResolveAssemblyReference.cache
+C:\Users\Constantine\Documents\Visual Studio 2012\Projects\Project9\DigitalCircuitPro\obj\Debug\DigitalCircuitPro.Properties.Resources.resources
+C:\Users\Constantine\Documents\Visual Studio 2012\Projects\Project9\DigitalCircuitPro\obj\Debug\DigitalCircuitPro.csproj.GenerateResource.Cache
+C:\Users\Constantine\Documents\Visual Studio 2012\Projects\Project9\DigitalCircuitPro\bin\Debug\DigitalCircuitPro.exe
+C:\Users\Constantine\Documents\Visual Studio 2012\Projects\Project9\DigitalCircuitPro\bin\Debug\DigitalCircuitPro.pdb
+C:\Users\Constantine\Documents\Visual Studio 2012\Projects\Project9\DigitalCircuitPro\obj\Debug\DigitalCircuitPro.exe
+C:\Users\Constantine\Documents\Visual Studio 2012\Projects\Project9\DigitalCircuitPro\obj\Debug\DigitalCircuitPro.pdb
+C:\Users\Constantine\Documents\Visual Studio 2012\Projects\Project9\DigitalCircuitPro\obj\Debug\DigitalCircuitPro.Form1.resources
